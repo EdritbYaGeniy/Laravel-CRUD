@@ -1,0 +1,2 @@
+*.sqlite*
+*/resources/views/UsersViews/message*
